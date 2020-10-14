@@ -1,17 +1,17 @@
 h1 {
-	color: #4f628e;
+	color: #730eaa;
 	text-align: center;
 	font-family: courier, times, seraf;
 }
 
 h2 {
-	color: #a8b3cc;
+	color: #582a72;
 	text-align: center;
 	font-family: courier, times, seraf;
 }
 
 p {
-	color: #7887ab;
+	color: #410dea;
 	font-family: courier, times, seraf;
   font-size: 20px;
 	text-align: center;
@@ -27,10 +27,18 @@ p {
 .sidebar {
 	width: 30%;
   float: left;
-  background-color: #4f628e;
+	background-color: #4f628e;
+	box-sizing: border-box;
 }
 
 .column{
 	width: 50%;	
 	float: right;
+}
+
+.box1{
+	border-width: 5px;
+	border: #582a72;
+	padding: 50px;
+
 }
