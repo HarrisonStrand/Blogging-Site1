@@ -13,5 +13,13 @@ h2 {
 p {
 	color: #7887ab;
 	font-family: courier, times, seraf;
-	font-size: 20px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.countries {
+  color:rgb(53, 53, 177);
+  font-family: cursive;
+  font-size: 40px;
+  text-align: center;
 }
