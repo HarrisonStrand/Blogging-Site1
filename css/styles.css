@@ -14,7 +14,7 @@ p {
 	color: #7887ab;
 	font-family: courier, times, seraf;
   font-size: 20px;
-  text-align: center;
+	text-align: center;
 }
 
 .countries {
@@ -22,4 +22,15 @@ p {
   font-family: cursive;
   font-size: 40px;
   text-align: center;
+}
+
+.sidebar {
+	width: 30%;
+  float: left;
+  background-color: #4f628e;
+}
+
+.column{
+	width: 50%;	
+	float: right;
 }
