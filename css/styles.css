@@ -1,0 +1,17 @@
+h1 {
+	color: #4f628e;
+	text-align: center;
+	font-family: courier, times, seraf;
+}
+
+h2 {
+	color: #a8b3cc;
+	text-align: center;
+	font-family: courier, times, seraf;
+}
+
+p {
+	color: #7887ab;
+	font-family: courier, times, seraf;
+	font-size: 20px;
+}
